@@ -1,0 +1,13 @@
+mode: set
+github.com/LukasKiederle/gotest/src/exercises/2.1/exercise2.1.go:5.13,20.2 6 0
+github.com/LukasKiederle/gotest/src/exercises/2.1/exercise2.1.go:22.32,25.2 2 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/exercise2.1.go:27.28,29.2 1 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:12.49,14.2 1 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:17.55,18.22 1 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:22.2,26.10 5 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:18.22,19.40 1 0
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:30.44,37.2 4 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:40.24,41.13 1 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:46.2,46.10 1 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:41.13,45.3 3 1
+github.com/LukasKiederle/gotest/src/exercises/2.1/rational.go:49.35,51.2 1 0
